@@ -72,3 +72,7 @@ for(let i =2 ; i<n ;i++){
         console.log( 'it is a prime number ')
     }
 }
+
+
+
+//Q8 threesome the number 
