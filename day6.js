@@ -24,4 +24,3 @@ do{
     else console.log('congrats you gussed it right🎉🍾👏'+com)
 }while(userInput!==com)
 
-// Q next task gff

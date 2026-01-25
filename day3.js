@@ -13,6 +13,7 @@
 
 
                     //Q2: Write a program to find the largest of three numbers. 
+
 // let num1 = Number(prompt("Enter first number:"));
 // let num2 = Number(prompt("Enter second number:"));
 // let num3 = Number(prompt("Enter third number:"));
@@ -30,7 +31,7 @@
 // }
 // console.log("The largest number is: " + largest);
 
-
+ 
 
 //Q2 shop discount program 
 
@@ -48,4 +49,4 @@ if(amount>=0 && amount <=5000){
     console.log('invalid amount')
 }
 
-//  
+//   

@@ -59,6 +59,18 @@
         else console.log(b + "is greast  ")
        
 
-// switch case
 
-let day = Number(prompt('enter the day number '))
+
+
+
+
+
+
+
+
+
+
+
+
+
+      

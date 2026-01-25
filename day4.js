@@ -17,7 +17,7 @@
                      console.log(i)
                 }
 
-                it reverse
+               // it reverse
 
                 let n = Number(prompt('enter the number '))
 
@@ -39,7 +39,7 @@ let n = Number(prompt('enter the number '))
 let evenSum= 0 ,oddSum = 0 
 
 for(let i = 1 ; i<=n; i++){
-    if(i%2===0){ even=evenSum+i;
+    if(i%2===0){ evenSum=evenSum+i;
     }
     else{
         oddSum=oddSum+i
@@ -75,4 +75,4 @@ for(let i =2 ; i<n ;i++){
 
 
 
-//Q8 threesome the number 
+
