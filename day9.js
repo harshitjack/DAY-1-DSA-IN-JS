@@ -115,10 +115,3 @@
 //      }
 
 
-
-let fullname = {
-    firstname: "harshit",
-    lastname: "mishra",
-};
-
-console.log(fullname.lastname);
